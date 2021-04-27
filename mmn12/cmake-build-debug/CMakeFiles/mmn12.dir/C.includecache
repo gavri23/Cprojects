@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn12/data.h
+
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn12/main.c
+stdio.h
+-
+data.h
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn12/data.h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn22/complex.h
+
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn22/mycomp.c
+stdio.h
+-
+complex.h
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn22/complex.h
+string.h
+-
+stdlib.h
+-
+signal.h
+-
+

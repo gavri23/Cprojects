@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn23/header.h
+
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn23/main.c
+stdio.h
+-
+header.h
+/cygdrive/c/Users/גבריאל/CLionProjects/mmn23/header.h
+stdlib.h
+-
+

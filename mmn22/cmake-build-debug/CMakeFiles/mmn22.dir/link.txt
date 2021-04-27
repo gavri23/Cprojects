@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/mmn22.dir/mycomp.c.o CMakeFiles/mmn22.dir/complex.c.o CMakeFiles/mmn22.dir/helpingfunctions.c.o  -o mmn22.exe -Wl,--out-implib,libmmn22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

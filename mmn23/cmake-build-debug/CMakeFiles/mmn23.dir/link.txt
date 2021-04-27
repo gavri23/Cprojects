@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/mmn23.dir/main.c.o  -o mmn23.exe -Wl,--out-implib,libmmn23.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
